@@ -4,6 +4,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class Main {
+    //
 
     public static class Point {
         int x;
